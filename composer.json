@@ -1,0 +1,17 @@
+{
+  "name": "kolgarnz/collections",
+  "description": "some class to work with array as object",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Igor Pinchuk",
+      "email": "kolgarn@yandex.ru"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Collection": "src/"
+    }
+  }
+}
